@@ -10,6 +10,7 @@ My solution for leetcode(6/210)
 | 61  | Rotate List           | C++  | Medium 
 
 | # | Title | Language | Difficulty |
+|---|-------|----------|------------|
 | 138 | copy_list_with_random | C++  | Medium
 | 141 | linked_list_circle_2  | C++  | Medium
 | 142 | linked_list_cycle     | C++  | Medium
