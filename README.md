@@ -1,8 +1,8 @@
 # LeetCode
 
 My solution for leetcode(6/210)
+| # | title | Language | Difficulty |
 
-List
 
 copy_list_with_random   
 linked_list_circle_2
